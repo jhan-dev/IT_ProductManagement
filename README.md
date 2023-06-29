@@ -38,3 +38,12 @@ Come up with a minimum viable product for what you want to achieve.
 1. Minimum working version of a product
 2. Maximum learning
 
+### Test and Analyze
+Allow your team to test your product before it's available to the public.
+
+### Rollout
+If you get negative results from testing, you can reiterate and pivot the direction of the product.
+
+
+
+
