@@ -71,6 +71,9 @@ Here are some questions you should ask before brainstorming:
 1. Is it the right time to bring this solution to the users?
 2. Is this the right solution?
 
-
+### Product Market Fit:
+1. Organic adoption and growth
+2. Strong success metrics
+3. Users love the solutions
 
 
