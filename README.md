@@ -45,5 +45,25 @@ Allow your team to test your product before it's available to the public.
 If you get negative results from testing, you can reiterate and pivot the direction of the product.
 
 
+## The PM Skillset
+### Hard Skills
+Ability to write detailed and clear product specifications with features that will solve user pain points.
+
+1. Translating user needs into product requirements
+2. Analytical skills and problem-solving mindset.
+
+### Soft Skills
+Ability to make critical decisions and trade-offs when needed.
+
+1. Empathy for users,
+2. Long-term vision
+3. Technical influence
+4. Storyteller
+
+Communication skills are key for a successful PM.
+
+
+
+
 
 
