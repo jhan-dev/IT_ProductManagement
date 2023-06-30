@@ -63,6 +63,13 @@ Ability to make critical decisions and trade-offs when needed.
 Communication skills are key for a successful PM.
 
 
+## Idea Generation
+### Are you solving a real problem?
+Whenever you come up with an idea, make sure it has a purpose.
+
+Here are some questions you should ask before brainstorming:
+1. Is it the right time to bring this solution to the users?
+2. Is this the right solution?
 
 
 
